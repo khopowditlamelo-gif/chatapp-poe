@@ -27,6 +27,9 @@ pom.xml                               - Maven build configuration
 **NetBeans:** open the project (File → Open Project, select this folder), then
 right-click the project → Test.
 
+## Running the console app 
+
+
 **Command line:**
 ```
 mvn test
