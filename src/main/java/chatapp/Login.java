@@ -53,7 +53,7 @@ public class Login {
         return PASSWORD_PATTERN.matcher(password).matches();
     }
 
-    /**
+    /** Uses a regex to enforce the +27 prefix and digit-count limit 
      * Checks that the cell phone number contains the international
      * country code (+27) followed by a number no more than ten
      * characters long.
