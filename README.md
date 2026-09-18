@@ -36,3 +36,4 @@ mvn test
 ```
 
 Tests also run automatically on GitHub via Actions on every push.
+"Last verified: all 13 unit tests passing; console app tested end-to-end"
